@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Compound.SimUDuckExample
 {
-    /// <summary>
-    /// 鸭鸣器 假声
-    /// </summary>
+
     public class DuckCall : IQuackable
     {
         public Observable Observable { get; set; }

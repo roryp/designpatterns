@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Compound.SimUDuckExample
 {
-    /// <summary>
-    /// 橡皮鸭 吱吱叫
-    /// </summary>
+
     public class RubberDuck : IQuackable
     {
         public Observable Observable { get; set; }

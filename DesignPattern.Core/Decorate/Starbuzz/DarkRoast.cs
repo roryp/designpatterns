@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Decorate.Starbuzz
 {
-    /// <summary>
-    /// 深焙咖啡
-    /// </summary>
+
     public class DarkRoast : Beverage
     {
         public DarkRoast()

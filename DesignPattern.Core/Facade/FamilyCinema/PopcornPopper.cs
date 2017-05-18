@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Facade.FamilyCinema
 {
-    /// <summary>
-    /// 爆米花
-    /// </summary>
+
     public class PopcornPopper
     {
         public void On() { }

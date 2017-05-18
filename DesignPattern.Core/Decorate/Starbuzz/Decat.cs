@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Decorate.Starbuzz
 {
-    /// <summary>
-    /// 低咖啡因咖啡
-    /// </summary>
+
     public class Decat : Beverage
     {
         public Decat()

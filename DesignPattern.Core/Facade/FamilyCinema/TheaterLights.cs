@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Facade.FamilyCinema
 {
-    /// <summary>
-    /// 影院灯光
-    /// </summary>
+
     public class TheaterLights
     {
         public void On() { }

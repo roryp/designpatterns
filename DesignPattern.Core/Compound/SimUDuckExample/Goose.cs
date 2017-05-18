@@ -6,9 +6,6 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Compound.SimUDuckExample
 {
-    /// <summary>
-    /// 鹅咯咯声
-    /// </summary>
     public class Goose
     {
         public void Honk()

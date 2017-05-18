@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Facade.FamilyCinema
 {
-    /// <summary>
-    /// CD唱机
-    /// </summary>
+
     public class CDPlayer
     {
         public Amplifier Amplifier { get; set; }

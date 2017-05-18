@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Facade.FamilyCinema
 {
-    /// <summary>
-    /// DVD影碟机
-    /// </summary>
+
     public class DVDPlayer
     {
         public Amplifier Amplifier { get; set; }

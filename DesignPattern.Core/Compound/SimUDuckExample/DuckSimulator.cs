@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Compound.SimUDuckExample
 {
-    /// <summary>
-    /// 鸭子模拟器
-    /// </summary>
+
     public class DuckSimulator
     {
 

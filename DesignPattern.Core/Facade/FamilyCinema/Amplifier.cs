@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Facade.FamilyCinema
 {
-    /// <summary>
-    /// 放大器 扩音器
-    /// </summary>
+
     public class Amplifier
     {
         public Tuner Tuner { get; set; }

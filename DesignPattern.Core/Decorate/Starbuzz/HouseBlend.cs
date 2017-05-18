@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Core.Decorate.Starbuzz
 {
-    /// <summary>
-    /// 混合综合咖啡
-    /// </summary>
+
     public class HouseBlend : Beverage
     {
         public HouseBlend()
